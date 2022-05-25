@@ -8,6 +8,8 @@ body {
 	font-family: "Lucida Handwriting", "Courier New", monospace;
 						
 }
-p.Tea {
-	color: red;
+
+@font-face {
+	font-family: "Remachine Script";
+	src: url("https://www.1001freefonts.com/remachine-script.font"
 }
